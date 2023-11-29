@@ -1,0 +1,62 @@
+
+.navbar-account-buttons {
+    width: 50px;
+    aspect-ratio: 1/1;
+    background-color: rgba(0, 0, 0, 0.050);
+    border-radius: 50%;
+    overflow: hidden;
+    color: rgba(0, 0, 0, 0.200);
+    cursor: pointer;
+}
+
+.blueviolet-stamp {
+    width: 13px;
+    aspect-ratio: 1/1;
+    background-color: #7550FE;
+    border-radius: 50%;
+    border: 2px white solid;
+    position: relative;
+    top: -15px;
+    left: 33px;
+}
+
+.green-stamp {
+    width: 13px;
+    aspect-ratio: 1/1;
+    background-color: #1ACB98;
+    border-radius: 50%;
+    border: 2px white solid;
+    position: relative;
+    top: -15px;
+    left: 33px;
+}
+
+.navbar-account-buttons:hover {
+    transform: scale(1.05);
+}
+
+.jumbatron {
+    background-color: #7550FE;
+}
+
+.browse-courses-btn {
+    background-color: #1ACB98;
+}
+
+.bollini {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFEEDA;
+    color: #C28135;
+    height: 50px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    padding-left: 2px;
+}
+
+.main {
+    height: 80vh;
+    background-color: rgba(0, 0, 0, 0.030);
+}
+

@@ -1,0 +1,16 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.dimensions {
+    width: 30px;
+}
+
+.stars-color {
+    color: #FFAA46;
+}
+
+.bars-color {
+    color: #7550FE;
+}
+
