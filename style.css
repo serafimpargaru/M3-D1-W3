@@ -9,6 +9,11 @@
     cursor: pointer;
 }
 
+.toggle-btn {
+    border: 2px #7550FE solid;
+    color: #7550FE;
+}
+
 .blueviolet-stamp {
     width: 13px;
     aspect-ratio: 1/1;

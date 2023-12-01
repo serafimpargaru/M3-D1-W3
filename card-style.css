@@ -2,6 +2,10 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
+.card:hover {
+    transform: scale(1.02);
+}
+
 .dimensions {
     width: 30px;
 }
@@ -14,3 +18,10 @@ body {
     color: #7550FE;
 }
 
+.save {
+    color: rgba(0, 0, 0, 0.250);
+}
+
+.save:hover {
+    color: #7550FE;
+}
