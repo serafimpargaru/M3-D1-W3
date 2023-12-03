@@ -57,6 +57,8 @@ body {
   padding-left: 4px;
 }
 
+/* -------------------------------------------------------------- */
+
 @media screen and (max-width: 1400px) {
   .carousel-prev-button {
     left: 6px;
