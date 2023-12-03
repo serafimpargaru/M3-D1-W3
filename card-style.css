@@ -1,8 +1,9 @@
 body {
     font-family: 'Inter', sans-serif;
+    background-color: #F5F4F8;
 }
 
-.card:hover {
+.single-card:hover {
     transform: scale(1.02);
 }
 
@@ -24,4 +25,34 @@ body {
 
 .save:hover {
     color: #7550FE;
+}
+
+.carousel-prev-button {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px #dee2e6 solid;
+    background-color: white;
+    position: absolute;
+    top: 41%;
+    left: -70px;
+    color: rgba(0, 0, 0, 0.350);
+    font-size: x-large;
+    padding-top: 8px;
+    padding-right: 4px;
+}
+
+.carousel-next-button {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px #dee2e6 solid;
+    background-color: white;
+    position: absolute;
+    top: 41%;
+    right: -70px;
+    color: rgba(0, 0, 0, 0.350);
+    font-size: x-large;
+    padding-top: 8px;
+    padding-left: 4px;
 }
